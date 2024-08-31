@@ -1,4 +1,4 @@
 [submodule "libzodiac"]
 	path = src/main/cpp/zodiac
-	url = git@github.com:ZodiacEFZ/libzodiac
-	branch = c++
+	url = git@github.com:misaka10987/libzodiac
+	branch = main
